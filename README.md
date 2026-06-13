@@ -1,6 +1,6 @@
 # 🎓 GATE Mock Test Series
 
-![GATE Banner](https://your-banner-link-here)  
+![GATE Banner](https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1200)
 
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Build](https://img.shields.io/badge/Build-Passing-success?style=flat-square)
